@@ -9,7 +9,7 @@ import com.mongodb.BasicDBObject;
  * Hello world!
  * 
  */
-public class DataServiceTest {
+public class DataServiceUseTest {
 	
 	public static void main(String[] args) {
 		try {
